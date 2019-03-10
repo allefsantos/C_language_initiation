@@ -17,6 +17,5 @@ int main () {
             printf("%c.",linha[i]);
     }
 
-
 return 0;
 }
